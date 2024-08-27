@@ -13,6 +13,8 @@ Escreva aqui os conteúdos aprendidos.
 
 . Console.log
 
+. Else e If
+
 
 
 ## Atividades desenvolvidas
