@@ -10,7 +10,7 @@ Escreva aqui os conteúdos aprendidos.
 Por definição, strings são sequências de caracteres alfanuméricos (letras, números e/ou símbolos) amplamente usadas em programação. Em Javascript, uma string sempre estará entre aspas.
 
 ```js
-const = abacate(string)
+const = (abacate) (string)
 
 const = 10(number)
 ```
