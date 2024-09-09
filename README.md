@@ -42,3 +42,12 @@ console. log - Imprime o texto no Console como uma mensagem de log.
 
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
+
+```js
+Link das atividades:
+
+https://codepen.io/Rei-HC1/pen/LYKMdWe
+https://codepen.io/Rei-HC1/pen/NWZEPez
+https://codepen.io/Rei-HC1/pen/VwJQEvY
+https://codepen.io/Rei-HC1/pen/WNqXdMd
+```
