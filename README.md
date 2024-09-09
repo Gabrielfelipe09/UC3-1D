@@ -17,6 +17,7 @@ const = 10(number)
 
 
 . Let, Var e Const
+
 let permite que você declare variáveis limitando seu escopo no bloco, instrução, ou em uma expressão na qual ela é usada. Isso é inverso da keyword var , que define uma variável globalmente ou no escopo inteiro de uma função, independentemente do escopo de bloco.
 
 ```js
