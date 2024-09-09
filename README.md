@@ -6,6 +6,7 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 Escreva aqui os conteúdos aprendidos.
 
 . String e number
+
 Por definição, strings são sequências de caracteres alfanuméricos (letras, números e/ou símbolos) amplamente usadas em programação. Em Javascript, uma string sempre estará entre aspas.
 
 ```js
@@ -42,6 +43,7 @@ console.log(Stark)
 ```
 
 . Console.log
+
 console. log - Imprime o texto no Console como uma mensagem de log.
 
 ```js
@@ -51,8 +53,19 @@ console.log(Série)
 ```
 
 . Else e If
-```js
+
 A condicional if é uma estrutura condicional que executa a afirmação, dentro do bloco, se determinada condição for verdadeira. Se for falsa, executa as afirmações dentro de else.
+
+
+```js
+const numero = prompt(50)
+
+if numero >= 50
+
+console.log("Você ganhou um prêmio")[
+else
+console.log("Você perdeu seu prêmio")
+]
 ```
 
 
