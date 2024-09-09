@@ -58,14 +58,13 @@ A condicional if é uma estrutura condicional que executa a afirmação, dentro 
 
 
 ```js
-const numero = prompt(50)
+const senha = prompt("Qual a senha?")
 
-if numero >= 50
-
-console.log("Você ganhou um prêmio")[
-else
-console.log("Você perdeu seu prêmio")
-]
+if(senha == "Pizza de batata") {
+  console.log(`Parabéns, ${nome} é bom te ver de volta`)
+} else{
+  console.log("Errou, tente novamente por favor")
+}
 ```
 
 
