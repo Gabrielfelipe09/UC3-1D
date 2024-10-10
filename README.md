@@ -67,6 +67,16 @@ if(senha == "Pizza de batata") {
 }
 ```
 
+## Métodos de array
+
+.push
+
+```js
+const franquias = ["Final Fantasy", "Kamen Rider", "Megaman", "Marvel Comics", "Arknights", "Star Wars"]
+franquias.push("Sousou No Frieren", "Power Rangers")
+console.log(franquias)
+```
+
 
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
