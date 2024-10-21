@@ -77,6 +77,54 @@ franquias.push("Sousou No Frieren", "Power Rangers")
 console.log(franquias)
 ```
 
+.pop
+
+```js
+franquias.pop()
+console.log(franquias)
+```
+
+.unshift
+
+```js
+franquias.unshift("Final Fantasy VII Remake")
+console.log(franquias)
+```
+
+.concat
+
+```js
+const newarray = franquias.concat(["Sexta Feira 13", "Supernatural"])
+```
+
+.join
+
+```js
+const novo = franquias.join("-")
+
+console.log(franquias)
+console.log(novo)
+```
+
+.slice
+
+```js
+const midias = franquias.slice(2)
+
+console.log(franquias)
+console.log(midias)
+```
+
+.indexOf
+
+```js
+const toaru = franquias.indexOf("Arknights")
+
+console.log(toaru)
+```
+
+
+
 
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
